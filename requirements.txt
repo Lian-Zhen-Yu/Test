@@ -1,0 +1,10 @@
+pandas
+torch
+sentence-transformers
+rank_bm25
+faiss-cpu
+openai
+tqdm
+python-dotenv
+opencc-python-reimplemented
+jieba
