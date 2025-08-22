@@ -60,10 +60,6 @@ def main():
                 app_logger.warning(f"Skipping malformed entry #{i+1} in test.json. Error: {e}. Data: {conversation_obj}")
                 print(f"\nWARNING: Skipped malformed entry #{i+1}. Check app.log for details.\n")
                 continue
-            
-            except Exception as e:
-                app_logger.error(f"An unexpected error occurred while processing query: '{user_content}'. Error: {e}", exc_info=True)
-                print(f"Error processing query: '{user_content}'. See app.log for details.")
     
     except Exception as e:
         app_logger.critical(f"A critical error occurred during initialization or file loading: {e}", exc_info=True)
