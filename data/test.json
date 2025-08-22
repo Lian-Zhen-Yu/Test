@@ -1,0 +1,3570 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請問你們的退換貨政策是什麼？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "保固多久？維修怎麼申請？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "發票可以開三聯式嗎？要怎麼填統編？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "出貨大概幾天？有免運嗎？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "VESA 100x100 的螢幕可以用哪支臂？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我的桌板厚 85mm，夾具能裝嗎？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我要找真人客服"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "轉真人，謝謝"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "human agent please"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "connect to agent"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想要推薦雙螢幕支架，27 吋"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "34 吋曲面螢幕適合哪一款臂架？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "49 吋超寬螢幕有支援的重載臂嗎？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "要壁掛有推薦嗎？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "有沒有筆電托盤可以接 VESA？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "走線管理套件有賣嗎？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請問可用 Apple Pay 或 LINE Pay 嗎？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "可以分期付款嗎？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "海外寄送香港可以嗎？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "缺貨能設定到貨通知嗎？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "有提供到府安裝嗎？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "夾具跟穿孔裝哪個比較穩？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "螢幕 6 公斤可以用哪款？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "氣壓臂張力要怎麼調？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "沒有 VESA 孔怎麼裝？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "家裡有小孩，使用安全要注意什麼？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "壁掛需要什麼牆面條件？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "要申請 RMA 維修怎麼做？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "電子發票可以重發嗎？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "公司想大量採購可以報價嗎？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "退貨流程跟退款時程？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "怎麼查物流追蹤？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "會員點數怎麼用？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "臂架保養清潔怎麼做？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "桌深需要多少？牆距要留多少？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "走線有什麼整理建議？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "贈品沒附到可以補寄嗎？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "VESA 螺絲規格要用多長？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "能跟電動升降桌一起用嗎？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "桌後有擋板，夾具還能裝嗎？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "兩台不同尺寸的螢幕可不可以混搭？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "包裝內有附哪些工具和零件？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "外箱撞到、零件少了怎麼辦？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "下單後想改地址可以嗎？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "可以取消訂單嗎？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "預購會分批出貨嗎？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "保固需要另外登錄嗎？可以轉移嗎？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "臂架有異音怎麼處理？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "螺絲、轉接板這些備品能單買嗎？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "如果剛買就降價，會補差嗎？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "你們會怎麼使用我的 Email？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想查訂單狀態"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "幫我查一下配送進度"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "查訂單 JTCG-202508-10001 的明細"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我的 user_id 是 u_123456，想看歷史訂單"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "user_id u_999999，查最近那筆訂單"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我要看訂單列表"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請轉真人，我很急"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "在線客服在嗎？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "service hours 客服什麼時段有？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請推薦一款 32 吋可用的單臂"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "雙螢幕 + 筆電托盤要怎麼搭配？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "VESA 200x100 能用哪款？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我的桌子是玻璃的，怎麼裝比較安全？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "大概多少時間可以安裝完成？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "付款失敗怎麼辦？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "可以改成面交嗎？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想知道活動優惠的使用規則"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我需要發票抬頭變更"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "客服信箱是多少？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "退款多久會到帳？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "How to track my order?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Do you ship internationally?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Need invoice reissue"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請問台北有安裝服務嗎？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "JTCG-ARM-DUAL-PRO-32 有現貨嗎？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "JTCG-ARM-ULTRAWIDE-49 支援 49 吋曲面嗎？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "JTCG-WALL-ARM-34 是否含膨脹螺絲？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "JTCG-LAPTOP-VESA-KIT 能裝 16 吋筆電嗎？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "JTCG-CABLE-MGMT-KIT 裡面有哪些配件？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我桌板 20mm，夾具夠嗎？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請問保固範圍包含人為損壞嗎？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "有企業合作方案嗎？學校採購也適用？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "發票什麼時候寄？可在哪裡下載？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我不確定要買哪款，你可以問我幾個問題幫我選嗎？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請問可否貨到付款？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "LINE Pay 有回饋嗎？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "海外退貨流程怎麼辦？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想看雙螢幕支架的比較"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請幫我把客服轉真人（human agent）"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "这款支架支持75×75吗？（简体）"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "退货政策是什么？（简体）"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "发票怎么开？（简体）"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "有没有49寸显示器支架？（简体）"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我要查询订单（简体）"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請問你們的客服時間？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "運費怎麼計算？離島另外加價嗎？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "如果螢幕 8 公斤，哪個型號比較適合？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我有兩台 27 吋要左右擺，推薦？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請幫我連接人工客服，我的問題很複雜"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想退貨流程怎麼走？順便推薦一支 27 吋單臂"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請問保固多久，另外 32 吋有沒有現貨？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我要查訂單配送進度，也想問免運門檻"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "可以轉真人嗎？同時幫我看一下 JTCG-ARM-DUAL-PRO-32 的相容性"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想知道客服時間，還有壁掛臂哪款最穩"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "查訂單 JTCG-202508-10001 的狀態，另外這款有配件嗎？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "退貨政策與是否支援 Apple Pay 一起告訴我"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "海外寄送可以嗎？同時推薦重載臂"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "想比較雙臂 vs 壁掛，順便看我的歷史訂單"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請直接找真人，還要查 order_id 清單"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "My order status please, and recommend a 49\" mount."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Do you ship internationally and what's your return policy?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我要發票三聯，另外幫我挑一款支架"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "客服表單在哪？也想設定到貨通知"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "能不能取消訂單，同時問問保固可轉移嗎？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我有 user_id u_123456，想看訂單並問 VESA 200x100 可以用哪款"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "付款方式有哪些？另外幫我查一下最近一筆訂單"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "桌板 15mm 能夾嗎？還有物流多久到"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想要真人客服，也幫我估算運費"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "想了解促銷規則，另外 27 吋雙螢幕建議"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "查詢 u_999999 的訂單，同時詢問保固申請流程"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "退貨退款多久？同時看一下壁掛伸縮距離"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想預購，還想知道客服有沒有週末"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "这款支架支持75×75吗？另外能查订单吗？（简体）"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我要查询订单并了解退货规则（简体）"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請問可以分期嗎？另外跟我說 RMA 怎麼申請"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我需要到府安裝資訊，也想問是否支援 34 吋曲面"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "想要看 accessories 清單，順便查配送"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "tracking 沒更新，轉真人並推薦穩定款"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "會員點數怎麼用？同時幫我找 JTCG-LAPTOP-VESA-KIT"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請問客服電話？另外 32 吋 100x100 有沒有推薦"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想更改地址，同時問走線組合內容"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "能否面交？另外把我訂單列表列出來"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "海外退貨流程？也順便轉真人"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想要到貨通知，同時比較兩款雙臂"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "保固一年嗎？另外 u_222222 的訂單 ETA？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請問免運，還有推薦一款壁掛"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "invoice 可以重發嗎？另外幫我看有沒有 200x100 支援的臂"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "human agent please, also what’s your shipping fee?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "connect to agent and list my recent orders."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我要取消訂單與詢問退款時程"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想查訂單，並問是否支援 Google Pay"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "桌後有擋板能裝嗎？順便推薦短臂"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請告訴我出貨時程與保固條款重點"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "客服時段？還有 JTCG-ARM-ULTRAWIDE-49 相容性"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "查詢 JTCG-202507-30021，同時想知道可以直立旋轉嗎"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想詢問贈品補寄，同時比較單臂/氣壓臂"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Do you have wall mount? Also check my tracking."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請幫我轉真人，同時設定到貨通知"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想問優惠券能否併用，還要看訂單列表"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "退貨需要原包裝嗎？另外推薦 16 吋筆電托盤"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "想了解 RMA 表單，同時查 u_555555 最新訂單"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我有兩台 27 吋要混搭，順便問免運門檻"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "付款失敗怎麼辦？也看看我上一筆訂單狀態"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請提供發票下載位置，並推薦走線配件"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "壁掛需要什麼牆體？也請轉真人諮詢"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請問隱私政策，另外轉真人處理發票抬頭"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "能給我客服時間嗎？以及 27 吋單臂對比表"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我要看訂單清單，並問 49 吋是否太重"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "發票改抬頭可以嗎？同時列出我的 order_id"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想問安裝時間，要 20 分鐘內能完成的款式，順便看運費"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "桌深 60cm 夠嗎？另外查一下配送進度"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "預購會分批出貨嗎？也幫我推薦超寬臂"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "你們支援 LINE Pay 嗎？同時查最新訂單"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "是否支援 Apple Pay？另外 VESA 轉接板哪款"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請轉真人，同時幫我估重量是否合適"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I need invoice reissue and a mount suggestion."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "查詢購買紀錄，另外比較雙臂承重差異"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "客服表單連結？同時推薦壁掛與桌夾差異"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "有沒有 USB hub 的臂？順便查 u_333333 訂單"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "退貨與換貨差別？另外有沒有現貨資訊"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "能否改用穿孔固定？也給我我的訂單列表"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請問兒童安全注意事項，順便推薦穩定款"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "黑貓配送多久？同時问有没有分期"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "I want to cancel and also get a recommendation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Can you track my order and tell me return policy?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "轉真人處理 RMA，同時想看壁掛指南"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "user_id u_empty，還有推薦入門款嗎？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "退款進度多久？同時產品相容性請告訴我"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "客服是否週末有？也幫我設定到貨通知"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我要查 JTCG-202508-15083，順便問 49 吋是否支援 200x100"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "這款支架會刮桌嗎？另請查我的配送"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "發票丟了怎麼辦？也想轉真人"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請給價格保護說明，並推薦替代品"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "運費怎麼算？同時比較兩款單臂價格"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "海外購買保固可用嗎？順便看我的訂單"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想升級到雙臂，同時查一下 ETA"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "桌子是玻璃，推薦方案並查最近訂單"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請列我的 order_id，還要問客服時間"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "配送卡在處理中，請轉真人並推薦短臂"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "想問優惠券規則，另外這支臂可直立？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請問保固登錄流程，與是否可轉讓？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "能否看走線教學，同時查 tracking 碼"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "貨到時可加購安裝嗎？並列出訂單清單"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請問是否可面交，若不行推薦最快到貨的款式"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想查配送，同時問 VESA 75×75 相容"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "退货流程+商品推荐（简体）"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "查询订单+转人工（简体）"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Compare two mounts and cancel my latest order."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "客服时段+是否支持Apple Pay（简体）"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請問你們的退換貨政策是什麼？"
+      },
+      {
+        "role": "assistant",
+        "content": "JTCG Shop 提供 7 天鑑賞期；商品需保持全新且包裝配件完整，非瑕疵退換可能需自行負擔運費。需要我貼上政策頁連結嗎？"
+      },
+      {
+        "role": "user",
+        "content": "好，請給我政策連結"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "保固多久？要怎麼申請維修？"
+      },
+      {
+        "role": "assistant",
+        "content": "臂架類商品享 1 年有限保固，申請維修時請準備訂單編號與故障照片/影片，我可提供線上申請表單連結。要現在申請嗎？"
+      },
+      {
+        "role": "user",
+        "content": "先給我表單連結就好"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "發票可以開三聯式嗎？結帳時要填什麼？"
+      },
+      {
+        "role": "assistant",
+        "content": "可以三聯；請在下單時填寫統編與抬頭。出貨後會寄電子發票，也可在會員中心下載。需要教學連結嗎？"
+      },
+      {
+        "role": "user",
+        "content": "需要，謝謝"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "一般出貨要幾天？有沒有免運門檻？"
+      },
+      {
+        "role": "assistant",
+        "content": "現貨 1–2 個工作天出貨；滿 NT$1,500 免運（離島另計）。要幫你確認某商品是否現貨嗎？"
+      },
+      {
+        "role": "user",
+        "content": "想查 JTCG-ARM-DUAL-PRO-32 是否現貨"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "VESA 100x100 的 27 吋螢幕，有推薦的單臂嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "可參考「JTCG 單臂支架 Lite（至 27 吋）」；支援 75x75/100x100，適合輕量螢幕。要我貼商品頁嗎？"
+      },
+      {
+        "role": "user",
+        "content": "貼連結給我"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "桌板厚 85mm 可以用夾具嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "多數夾具支援約 10–85mm；若材質為玻璃或軟木，建議加墊片或使用穿孔固定。需要安裝指南嗎？"
+      },
+      {
+        "role": "user",
+        "content": "請給我指南"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我要轉真人客服，謝謝"
+      },
+      {
+        "role": "assistant",
+        "content": "為協助轉接真人客服，請提供可聯絡的 Email（例如 name@example.com）。"
+      },
+      {
+        "role": "user",
+        "content": "my.mail+test@demo.com"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "human agent please"
+      },
+      {
+        "role": "assistant",
+        "content": "To connect you to a human agent, please provide a valid email address (e.g., name@example.com)."
+      },
+      {
+        "role": "user",
+        "content": "user@example.com"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "connect to agent"
+      },
+      {
+        "role": "assistant",
+        "content": "Please share your email so I can transfer you to a human agent."
+      },
+      {
+        "role": "user",
+        "content": "john.doe@sample.org"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "34 吋曲面螢幕要選哪支臂？"
+      },
+      {
+        "role": "assistant",
+        "content": "可考慮「超寬螢幕重載臂（至 49 吋）」；承重與 VESA 相容性較充足。需不需要確認你的螢幕重量？"
+      },
+      {
+        "role": "user",
+        "content": "重量大概 8 公斤"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "49 吋超寬螢幕有支援的重載臂嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "有，型號「JTCG 超寬螢幕重載臂（至 49 吋）」支援 100x100/200x100 VESA。要商品頁連結嗎？"
+      },
+      {
+        "role": "user",
+        "content": "給我連結"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想壁掛，哪個比較適合？"
+      },
+      {
+        "role": "assistant",
+        "content": "可參考「壁掛式伸縮臂（至 34 吋）」；請確認牆面可承重並使用對應膨脹螺絲。需要牆體條件說明嗎？"
+      },
+      {
+        "role": "user",
+        "content": "牆面是石膏板，行嗎？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "有沒有筆電托盤可以裝在臂架上？"
+      },
+      {
+        "role": "assistant",
+        "content": "有，「筆電托盤＋VESA 轉接組」可搭配支援 VESA 的臂架使用，適用 11–16 吋筆電。需要連結嗎？"
+      },
+      {
+        "role": "user",
+        "content": "好，貼上來"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "走線管理套件你們有賣嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "有，商品為「桌面走線管理組」。可協助整理臂架與桌下線材。要看內容物清單嗎？"
+      },
+      {
+        "role": "user",
+        "content": "內容物有哪些？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "可以用 Apple Pay 或 LINE Pay 付款嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "支援信用卡、Apple Pay、Google Pay、LINE Pay；部分銀行有 3/6/12 期分期，依結帳頁為準。要我帶你到付款說明嗎？"
+      },
+      {
+        "role": "user",
+        "content": "帶我看看付款說明"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "海外可以寄新加坡嗎？運費怎麼算？"
+      },
+      {
+        "role": "assistant",
+        "content": "主要配送台灣本島；海外配送可先讓客服評估可行方案與費用。需要我幫你轉真人評估嗎？"
+      },
+      {
+        "role": "user",
+        "content": "好，那轉真人吧"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "缺貨可以設定到貨通知嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "可以，在商品頁點選「到貨通知我」，補貨後會以 Email 通知。要我協助你找到該商品頁嗎？"
+      },
+      {
+        "role": "user",
+        "content": "請幫我找 JTCG-ARM-SINGLE-LITE-27"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "有提供到府安裝嗎？台北地區"
+      },
+      {
+        "role": "assistant",
+        "content": "部分地區提供到府安裝（由合作廠商執行），費用依地區與難度另計。我可以先幫你留下聯絡資料給客服嗎？"
+      },
+      {
+        "role": "user",
+        "content": "先不用，我想看價目"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "夾具跟穿孔固定哪個比較穩？"
+      },
+      {
+        "role": "assistant",
+        "content": "穿孔固定穩定度較高；夾具免鑽孔、安裝快。若桌板材質特殊或很厚，建議選穿孔。需要比較文章嗎？"
+      },
+      {
+        "role": "user",
+        "content": "貼比較文章"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "螢幕 6 公斤可以用哪款臂架？"
+      },
+      {
+        "role": "assistant",
+        "content": "6 公斤多數單臂可支援；若要更順暢建議選氣壓臂。你偏好單臂還是雙臂？"
+      },
+      {
+        "role": "user",
+        "content": "單臂就好"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "氣壓臂張力要怎麼調整才會停在我要的高度？"
+      },
+      {
+        "role": "assistant",
+        "content": "使用附贈六角扳手微調；順時針/逆時針調整張力，讓螢幕能穩定停住。要看圖解指南嗎？"
+      },
+      {
+        "role": "user",
+        "content": "請給我圖解"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "如果我的螢幕沒有 VESA 孔可以怎麼裝？"
+      },
+      {
+        "role": "assistant",
+        "content": "可用 VESA 轉接板或筆電托盤，需確認尺寸與負重。要我推薦轉接方案嗎？"
+      },
+      {
+        "role": "user",
+        "content": "推薦給我"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "家裡有小孩，臂架安全要注意什麼？"
+      },
+      {
+        "role": "assistant",
+        "content": "建議加裝桌面保護墊片、避免孩童攀掛、定期檢查螺絲鎖固與走線。要安全清單給你嗎？"
+      },
+      {
+        "role": "user",
+        "content": "好，給清單"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "壁掛安裝對牆體有什麼要求？"
+      },
+      {
+        "role": "assistant",
+        "content": "建議磚牆或實心牆；若石膏板需對應膨脹螺絲或專業安裝。要參考壁掛指南嗎？"
+      },
+      {
+        "role": "user",
+        "content": "給我指南連結"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "RMA 要怎麼申請？要哪些資料？"
+      },
+      {
+        "role": "assistant",
+        "content": "請提供訂單編號與故障照片/影片，線上表單填寫後，客服會回覆處理時程。要我送你到 RMA 表單嗎？"
+      },
+      {
+        "role": "user",
+        "content": "是的，謝謝"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "電子發票可以重發或改抬頭嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "可在會員中心補發下載；抬頭/統編需於下單時填寫，若遺漏請在出貨前聯繫客服協助。需要操作步驟嗎？"
+      },
+      {
+        "role": "user",
+        "content": "請給步驟"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "公司大量採購可以談專案報價嗎？學校也可以嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "可以，企業/學校均可評估專案報價與安裝服務。要留下需求數量與地點給我們嗎？"
+      },
+      {
+        "role": "user",
+        "content": "我要先拿一份聯絡表"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "退貨流程跟退款大概多久會完成？"
+      },
+      {
+        "role": "assistant",
+        "content": "退貨：提出申請→回收→檢查→退款，通常約 7–14 個工作天（依支付方式與銀行作業）。要我提供申請入口嗎？"
+      },
+      {
+        "role": "user",
+        "content": "好，給我入口"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "要怎麼查物流追蹤？我想確認包裹在哪裡。"
+      },
+      {
+        "role": "assistant",
+        "content": "出貨後可在「我的訂單」點擊追蹤碼查看。要我幫你查訂單嗎？若要，請先提供 user_id。"
+      },
+      {
+        "role": "user",
+        "content": "我的 user_id 是 u_123456"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "會員點數要怎麼用？會過期嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "點數可於結帳抵用，無法折現；效期與規則以會員中心公告為準。要我帶你看說明頁嗎？"
+      },
+      {
+        "role": "user",
+        "content": "好的，謝謝"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "臂架平常應該怎麼保養清潔？"
+      },
+      {
+        "role": "assistant",
+        "content": "以微濕布擦拭，避免溶劑；定期檢查關節與螺絲，必要時小幅調整。要保養指南嗎？"
+      },
+      {
+        "role": "user",
+        "content": "給我指南連結"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "桌深與牆距要留多少比較好？我怕臂展不夠。"
+      },
+      {
+        "role": "assistant",
+        "content": "一般建議桌深至少 60cm，後方保留 10–15cm 利於走線與活動。需要我幫你比對特定型號臂展嗎？"
+      },
+      {
+        "role": "user",
+        "content": "幫我比對 32 吋用的款式"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "走線有推薦的整理方式嗎？常被拉扯。"
+      },
+      {
+        "role": "assistant",
+        "content": "可沿臂後側與走線槽固定，預留轉動餘量；轉接器與變壓器避免懸空。要走線指南嗎？"
+      },
+      {
+        "role": "user",
+        "content": "提供指南，謝謝"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "贈品漏寄可以補寄嗎？需要什麼資料？"
+      },
+      {
+        "role": "assistant",
+        "content": "請於 7 日內提供訂單編號與開箱照片，我們會協助補寄。要我給你申請入口嗎？"
+      },
+      {
+        "role": "user",
+        "content": "好，謝謝"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "VESA 螺絲要用多長、多大規格？"
+      },
+      {
+        "role": "assistant",
+        "content": "多數為 M4（約 10–14mm）；大型螢幕可能用到 M6/M8，請以螢幕原廠手冊為準。需要螺絲指引嗎？"
+      },
+      {
+        "role": "user",
+        "content": "請提供指引"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "可以搭配電動升降桌嗎？升降時會不會拉到線？"
+      },
+      {
+        "role": "assistant",
+        "content": "可以，建議預留 10–15cm 線材餘量並固定走線，避免升降拉扯。需要走線示意圖嗎？"
+      },
+      {
+        "role": "user",
+        "content": "需要，謝謝"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "桌後有擋板，夾具還能用嗎？要注意什麼？"
+      },
+      {
+        "role": "assistant",
+        "content": "請確認夾持深度與高度是否足夠；若干涉可改穿孔或加延伸固定片。要我幫你評估尺寸嗎？"
+      },
+      {
+        "role": "user",
+        "content": "擋板高度約 60mm"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "雙螢幕不同尺寸能混搭嗎？會不會歪？"
+      },
+      {
+        "role": "assistant",
+        "content": "可混搭，建議重量相近並分別調整各臂張力即可。要張力調整教學嗎？"
+      },
+      {
+        "role": "user",
+        "content": "好，給我教學"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "包裝裡會附什麼？需要自備哪些工具？"
+      },
+      {
+        "role": "assistant",
+        "content": "標配含臂架、夾具/穿孔配件、六角扳手與 VESA 螺絲；穿孔安裝可能需自備電鑽。要開箱清單嗎？"
+      },
+      {
+        "role": "user",
+        "content": "請提供清單"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "剛收到外箱破損，還有零件少了，怎麼處理？"
+      },
+      {
+        "role": "assistant",
+        "content": "請拍照外箱與內容物，於 7 日內連同訂單編號回報，我們會協助補件或售後處理。需要申請頁面嗎？"
+      },
+      {
+        "role": "user",
+        "content": "要，謝謝"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "下單後可以改地址或換商品嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "未出貨前可協助修改；若已入出貨流程，可能需取消重下。要我幫你確認訂單狀態嗎？提供 user_id 即可。"
+      },
+      {
+        "role": "user",
+        "content": "user_id 是 u_999999"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想取消訂單並退款，可以嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "未出貨可取消；已出貨需走退貨流程。退款約 7–14 個工作天。要我協助提交取消嗎？"
+      },
+      {
+        "role": "user",
+        "content": "先查狀態再決定"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "預購品會不會跟現貨分開寄？運費怎算？"
+      },
+      {
+        "role": "assistant",
+        "content": "可能分批出貨；運費與是否合併以結帳頁為準。需要我幫你看該商品頁的說明嗎？"
+      },
+      {
+        "role": "user",
+        "content": "好，麻煩"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "保固需要另外登錄嗎？可以轉移給下一位買家嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "部分商品可線上登錄；保固通常限原始購買者，不隨轉售轉移。要登錄頁面嗎？"
+      },
+      {
+        "role": "user",
+        "content": "給我看登錄頁"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "臂架有異音，該怎麼排除？"
+      },
+      {
+        "role": "assistant",
+        "content": "先檢查螺絲鎖付與走線干涉；必要時在關節轉點少量潤滑。要保養/異音指南嗎？"
+      },
+      {
+        "role": "user",
+        "content": "是，請給我"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "可以單買螺絲或轉接板嗎？在哪裡找？"
+      },
+      {
+        "role": "assistant",
+        "content": "可於配件館選購；若找不到對應零件，請提供 SKU 與需求給客服協助。要我幫你找配件頁嗎？"
+      },
+      {
+        "role": "user",
+        "content": "幫我找一下"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "剛買就降價會補差嗎？條件是什麼？"
+      },
+      {
+        "role": "assistant",
+        "content": "是否補差依活動頁公告；不同檔期可能不適用價格保護。需要價格政策連結嗎？"
+      },
+      {
+        "role": "user",
+        "content": "需要"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "你們會怎麼使用我提供的 Email？會拿去行銷嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "Email 僅用於本次服務聯繫與訂單通知，不做行銷用途。更多可見隱私權政策。要載點嗎？"
+      },
+      {
+        "role": "user",
+        "content": "好，給我"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我要查訂單狀態，幫我看一下最近那筆。"
+      },
+      {
+        "role": "assistant",
+        "content": "沒問題，請先提供 user_id，我會先列出你的訂單供選擇要查哪一筆。"
+      },
+      {
+        "role": "user",
+        "content": "u_333333"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "幫我查配送進度，我有追蹤碼嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "我可以幫你查，請先提供 user_id；列出訂單後你再指定 order_id，我就能提供追蹤資訊。"
+      },
+      {
+        "role": "user",
+        "content": "user_id u_444444"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "查訂單 JTCG-202508-10001 的明細內容。"
+      },
+      {
+        "role": "assistant",
+        "content": "為保護資料，我會先列出你的訂單讓你指認。請先提供 user_id，我再帶你選擇對應的 order_id。"
+      },
+      {
+        "role": "user",
+        "content": "我的 user_id 是 u_123456"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "想看我的訂單列表。"
+      },
+      {
+        "role": "assistant",
+        "content": "好的，請提供 user_id，我會列出你的 order_id 清單供你選擇查詢。"
+      },
+      {
+        "role": "user",
+        "content": "u_empty"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "在線客服還有營業嗎？今天可以聊嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "線上客服時段為週一至週五 09:30–18:00（國定假日除外）。若需要轉真人，請提供 Email。"
+      },
+      {
+        "role": "user",
+        "content": "那先給我轉真人吧"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "service hours for support?"
+      },
+      {
+        "role": "assistant",
+        "content": "Our live support hours are Mon–Fri 09:30–18:00 (Taiwan time). If you need a human agent, please provide your email."
+      },
+      {
+        "role": "user",
+        "content": "ok, john@acme.co"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請推薦 32 吋可用的單臂款式，桌深 60cm。"
+      },
+      {
+        "role": "assistant",
+        "content": "可參考「單臂支架 Lite（至 27 吋）」若螢幕較輕；或重視流暢度可選氣壓臂款。你的螢幕重量大約幾公斤？"
+      },
+      {
+        "role": "user",
+        "content": "大約 4.5 公斤"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我要雙螢幕加筆電托盤一起用，怎麼搭比較好？"
+      },
+      {
+        "role": "assistant",
+        "content": "可用「雙螢幕氣壓臂 Pro」搭配「筆電托盤＋VESA 轉接組」。要我把兩個商品頁都給你嗎？"
+      },
+      {
+        "role": "user",
+        "content": "好，兩個都給"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "VESA 200x100 的螢幕可以用你們哪款？"
+      },
+      {
+        "role": "assistant",
+        "content": "「超寬螢幕重載臂（至 49 吋）」支援 200x100。要我確認你的螢幕重量是否在承重範圍嗎？"
+      },
+      {
+        "role": "user",
+        "content": "重量 10 公斤內"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我的桌子是玻璃材質，夾具會不會壓裂？有什麼建議？"
+      },
+      {
+        "role": "assistant",
+        "content": "玻璃桌建議加墊片或改穿孔固定（需專業評估）。也可考慮壁掛方案。要我給你比較資料嗎？"
+      },
+      {
+        "role": "user",
+        "content": "給我比較資料"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "安裝大概要花多久時間？我有工具。"
+      },
+      {
+        "role": "assistant",
+        "content": "一般 20–40 分鐘可完成（依桌面/走線複雜度而異）。要我提供安裝步驟與注意事項嗎？"
+      },
+      {
+        "role": "user",
+        "content": "好，給我步驟"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "付款失敗怎麼辦？可以重試嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "可先確認卡片/網路狀況並重試；仍失敗可改用其他支付或聯繫客服協助。需要支付說明頁嗎？"
+      },
+      {
+        "role": "user",
+        "content": "先給我說明頁"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "可以面交嗎？我住台北市區。"
+      },
+      {
+        "role": "assistant",
+        "content": "目前以宅配為主，無提供面交。若有時程需求可告訴我，我幫你參考出貨時程。"
+      },
+      {
+        "role": "user",
+        "content": "那最快何時能到？"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "想了解優惠券使用規則與限制。"
+      },
+      {
+        "role": "assistant",
+        "content": "每筆訂單限用一張，且部分專案/企業報價不適用；活動期間與適用品項以頁面公告為準。要活動總覽嗎？"
+      },
+      {
+        "role": "user",
+        "content": "好的"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我要變更發票抬頭，出貨前可以改嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "可於出貨前由客服協助修改。要我幫你轉真人處理嗎？若要，請提供 Email。"
+      },
+      {
+        "role": "user",
+        "content": "ok，email 是 finance@corp.tw"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "客服聯絡方式是什麼？有信箱嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "可透過線上客服表單或指定信箱聯繫；我也能幫你轉真人協助。需要我先轉接嗎？"
+      },
+      {
+        "role": "user",
+        "content": "先不用，給我表單就好"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "退款大概多久會到帳？信用卡支付"
+      },
+      {
+        "role": "assistant",
+        "content": "退款約 7–14 個工作天，實際依銀行作業為準。需要退貨/取消流程連結嗎？"
+      },
+      {
+        "role": "user",
+        "content": "好，請提供"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "How to track my order status on your site?"
+      },
+      {
+        "role": "assistant",
+        "content": "Go to “My Orders” and click the tracking code. If you want me to check, please provide your user_id and then choose an order_id."
+      },
+      {
+        "role": "user",
+        "content": "user_id is u_555555"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Do you ship internationally? I’m in Japan."
+      },
+      {
+        "role": "assistant",
+        "content": "We mainly ship within Taiwan. For overseas shipping, we can escalate to a human agent to evaluate options—share your email if you’d like me to transfer you."
+      },
+      {
+        "role": "user",
+        "content": "okay: jpbuyer@mail.jp"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Need invoice reissue, lost the email."
+      },
+      {
+        "role": "assistant",
+        "content": "You can re-download the e-invoice in your account after shipment. If you need help, I can transfer you—please share your email."
+      },
+      {
+        "role": "user",
+        "content": "send to billing@xyz.com"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "请问这款支架支持75×75吗？（简体）"
+      },
+      {
+        "role": "assistant",
+        "content": "支持，JTCG 多数臂架兼容 75×75 与 100×100。需要我给你对应型号的链接吗？（简体）"
+      },
+      {
+        "role": "user",
+        "content": "给链接（简体）"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "退货政策是什么？（简体）"
+      },
+      {
+        "role": "assistant",
+        "content": "提供 7 天鉴赏期，商品需保持全新与配件完整；非瑕疵退换可能需自行承担运费。需要政策页面吗？（简体）"
+      },
+      {
+        "role": "user",
+        "content": "要（简体）"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "发票怎么开？能填公司抬头吗？（简体）"
+      },
+      {
+        "role": "assistant",
+        "content": "可以三联电子发票；下单时填写税号与抬头。出货后会寄送邮件且可在会员中心下载。（简体）"
+      },
+      {
+        "role": "user",
+        "content": "好（简体）"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "有没有49寸显示器可用的重载臂？（简体）"
+      },
+      {
+        "role": "assistant",
+        "content": "有，推荐“超宽显示器重载臂（至49寸）”，支持100×100/200×100 VESA。（简体）"
+      },
+      {
+        "role": "user",
+        "content": "给我商品链接（简体）"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我要查询订单（简体）"
+      },
+      {
+        "role": "assistant",
+        "content": "请先提供 user_id，我会列出你的订单编号供你选择要查询的订单。（简体）"
+      },
+      {
+        "role": "user",
+        "content": "user_id u_222222（简体）"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "客服時段是幾點到幾點？假日有嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "週一至週五 09:30–18:00，國定假日休息。如需轉真人，請提供 Email。"
+      },
+      {
+        "role": "user",
+        "content": "那我留 email：help@me.com"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "離島運費如何計算？會比較久嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "離島/外島運費與時程將於結帳頁顯示，通常較本島久一些。要我幫你估算某品項嗎？"
+      },
+      {
+        "role": "user",
+        "content": "不用，先知道規則就好"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "螢幕 8 公斤，VESA 100x100，推薦哪款單臂？"
+      },
+      {
+        "role": "assistant",
+        "content": "建議選擇氣壓臂款以保留調整餘裕；如需更穩可考慮重載臂。要我比對兩款差異嗎？"
+      },
+      {
+        "role": "user",
+        "content": "比對給我"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我有兩台 27 吋要左右並排，哪個雙臂適合？"
+      },
+      {
+        "role": "assistant",
+        "content": "「雙螢幕氣壓臂 Pro（至 32 吋）」適合並排，且支援 VESA 75/100。要商品頁嗎？"
+      },
+      {
+        "role": "user",
+        "content": "要"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請直接幫我轉真人，問題很多不想打字了。"
+      },
+      {
+        "role": "assistant",
+        "content": "了解，請提供可聯絡的 Email，我會立即為你轉接真人客服。"
+      },
+      {
+        "role": "user",
+        "content": "c@d.cc"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想比較雙臂與壁掛的差異，你建議哪個？"
+      },
+      {
+        "role": "assistant",
+        "content": "桌面彈性高→雙臂；節省桌面並有牆面條件→壁掛。看你是否能鑽牆與承重條件。要比較文章嗎？"
+      },
+      {
+        "role": "user",
+        "content": "請給比較文章"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "活動優惠怎麼用？可以和企業報價一起用嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "每單限一張券，且多數專案或企業報價不併用。以活動頁公告為準。要我傳活動頁嗎？"
+      },
+      {
+        "role": "user",
+        "content": "好"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想看訂單列表再決定要查哪一筆配送。"
+      },
+      {
+        "role": "assistant",
+        "content": "請提供 user_id，我會先列出你的 order_id 清單，之後你再指定要查的一筆。"
+      },
+      {
+        "role": "user",
+        "content": "u_555555"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "這款臂架支援 USB 集線嗎？我想桌面少拉幾條線。"
+      },
+      {
+        "role": "assistant",
+        "content": "目前多數臂架無內建 USB Hub，可搭配走線管理或外接集線器。要我推薦走線配件嗎？"
+      },
+      {
+        "role": "user",
+        "content": "好，推薦我"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請問 JTCG-ARM-DUAL-PRO-32 的 VESA 支援哪些？"
+      },
+      {
+        "role": "assistant",
+        "content": "支援 75x75、100x100。若螢幕較重或超寬建議加強背板。需要商品頁嗎？"
+      },
+      {
+        "role": "user",
+        "content": "好，給我"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請幫我查訂單配送，剛剛下單沒多久。"
+      },
+      {
+        "role": "assistant",
+        "content": "我可以協助，請先提供 user_id；列出訂單後你再回覆要查的 order_id。"
+      },
+      {
+        "role": "user",
+        "content": "user_id u_222222"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我需要客服打電話給我，直接轉真人就好。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以，請提供可聯絡的 Email（僅用於此次服務），確認後我立刻轉接真人客服。"
+      },
+      {
+        "role": "user",
+        "content": "contact@home.tw"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "臂架可不可以直立旋轉 90 度？我要直立顯示器。"
+      },
+      {
+        "role": "assistant",
+        "content": "多數款式支援 ±90° 旋轉；請確認你的螢幕重量與 VESA。要我列幾款支援直立的型號嗎？"
+      },
+      {
+        "role": "user",
+        "content": "列給我"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請問客服表單在哪？我有安裝的問題想問。"
+      },
+      {
+        "role": "assistant",
+        "content": "我可以提供線上客服表單連結；也可直接轉真人，請提供 Email。你偏好哪種？"
+      },
+      {
+        "role": "user",
+        "content": "先表單就好"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想用 LINE Pay，有回饋嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "是否有回饋依活動公告與付款頁提示為準；我可以帶你看付款說明或活動頁。要哪個？"
+      },
+      {
+        "role": "user",
+        "content": "活動頁"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "海外退貨可以嗎？流程會很複雜嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "需先由客服評估與協助安排，流程時間依物流而異。我可轉真人協助，請提供 Email。"
+      },
+      {
+        "role": "user",
+        "content": "ok，我的 email 是 r@o.cc"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "幫我比較一下兩款雙螢幕支架的差別，重視穩定度。"
+      },
+      {
+        "role": "assistant",
+        "content": "在穩定度上，氣壓臂調整流暢、承重餘裕佳；壁掛則最穩但需牆面條件。你更傾向桌夾還是壁掛？"
+      },
+      {
+        "role": "user",
+        "content": "桌夾就好"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想先看訂單 ID，再指定要查哪一筆。"
+      },
+      {
+        "role": "assistant",
+        "content": "收到，請提供 user_id，我會列出你的 order_id 清單供你選擇。"
+      },
+      {
+        "role": "user",
+        "content": "u_777777"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "桌面空間小，臂架會不會卡到牆？有什麼建議配置？"
+      },
+      {
+        "role": "assistant",
+        "content": "建議桌深≥60cm、後方留 10–15cm；可選伸縮臂或縮短臂展配置。要我依你的螢幕尺寸給配置建議嗎？"
+      },
+      {
+        "role": "user",
+        "content": "螢幕 27 吋"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請問可否貨到付款？我不想刷卡。"
+      },
+      {
+        "role": "assistant",
+        "content": "目前以信用卡與電子支付為主，貨到付款暫不提供。要我提供可用的支付方式列表嗎？"
+      },
+      {
+        "role": "user",
+        "content": "提供列表"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "客服可以直接打電話給我嗎？不用 email。"
+      },
+      {
+        "role": "assistant",
+        "content": "我可以協助轉真人，但需要你提供有效 Email 作為聯繫依據，再由客服與你安排。請提供 Email。"
+      },
+      {
+        "role": "user",
+        "content": "phoneonly@noemail"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我不確定要買哪款，你可以問我幾個問題幫我選嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "當然可以！請先告訴我：螢幕尺寸/重量、VESA 規格、是否要雙螢幕、桌板材質與厚度？"
+      },
+      {
+        "role": "user",
+        "content": "27 吋、約 4.5 公斤、100x100、單螢幕、木桌 30mm"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想買 JTCG-LAPTOP-VESA-KIT，能搭配哪些臂架？"
+      },
+      {
+        "role": "assistant",
+        "content": "任何支援 75x75/100x100 VESA 的臂架都能搭配；要我推薦單臂與雙臂各一款嗎？"
+      },
+      {
+        "role": "user",
+        "content": "好，各一款"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請問走線管理組合裡面有托盤嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "組合含走線套管、束線帶與桌下托盤。要我貼商品頁給你嗎？"
+      },
+      {
+        "role": "user",
+        "content": "貼上來"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想追蹤訂單，但忘了編號怎麼辦？"
+      },
+      {
+        "role": "assistant",
+        "content": "沒關係，你提供 user_id，我會列出你的 order_id 清單，之後你再指定要查的一筆。"
+      },
+      {
+        "role": "user",
+        "content": "user_id = u_333333"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我剛剛付款失敗，怕重複扣款，怎麼確認？"
+      },
+      {
+        "role": "assistant",
+        "content": "建議稍後重新整理訂單頁並留意銀行通知；若有疑慮可提供 user_id，我協助查看訂單狀態或轉客服協助。"
+      },
+      {
+        "role": "user",
+        "content": "我先等等看"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "可以提供到貨通知的步驟嗎？我怕搶不到貨。"
+      },
+      {
+        "role": "assistant",
+        "content": "在商品頁點「到貨通知我」，登入後填寫 Email 即可。要我直接帶你到該商品頁嗎？"
+      },
+      {
+        "role": "user",
+        "content": "帶我去 JTCG-ARM-ULTRAWIDE-49"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想先問問品牌保固條款，太長不想看全文。可以摘要嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "重點：臂架 1 年有限保固；非人為損壞可送檢維修；申請需訂單或發票資訊。要完整條款連結嗎？"
+      },
+      {
+        "role": "user",
+        "content": "有需要再說，謝謝"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想直接看雙臂商品清單前三名就好，簡單比較即可。"
+      },
+      {
+        "role": "assistant",
+        "content": "可以，我會列出 3 款並說明關鍵差異與連結。先說你的螢幕尺寸與 VESA 規格？"
+      },
+      {
+        "role": "user",
+        "content": "27 吋，100x100"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請幫我轉真人，出貨一直沒更新，很著急。"
+      },
+      {
+        "role": "assistant",
+        "content": "理解你的狀況，為了轉接真人客服，請提供可聯絡的 Email（例如 name@example.com）。"
+      },
+      {
+        "role": "user",
+        "content": "urgent@now.me"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "想問一下，臂架可承重 18 公斤的是哪款？有嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "重載需求可看「超寬螢幕重載臂（至 49 吋）」；承重區間約 5–18 kg。要我貼商品頁嗎？"
+      },
+      {
+        "role": "user",
+        "content": "貼上"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想把客服轉給真人（human agent），謝謝。"
+      },
+      {
+        "role": "assistant",
+        "content": "沒問題，請提供你的 Email，我就會為你轉接真人客服。"
+      },
+      {
+        "role": "user",
+        "content": "me@hello.world"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "能不能給我壁掛臂的伸縮距離資訊？"
+      },
+      {
+        "role": "assistant",
+        "content": "壁掛式伸縮臂伸展約 500mm，請確認牆面材質與承重。需要商品頁與安裝指南嗎？"
+      },
+      {
+        "role": "user",
+        "content": "兩個都要"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "如果我今天下單，最快什麼時候會出貨？台北市"
+      },
+      {
+        "role": "assistant",
+        "content": "現貨一般 1–2 個工作天出貨；實際依倉別與物流排程。要我幫你確認某個 SKU 的現貨狀態嗎？"
+      },
+      {
+        "role": "user",
+        "content": "JTCG-ARM-DUAL-PRO-32"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "需要我先提供什麼資訊，你才查得到我的訂單？"
+      },
+      {
+        "role": "assistant",
+        "content": "請提供 user_id。我會列出你的 order_id 清單，你再指定要查的一筆即可。"
+      },
+      {
+        "role": "user",
+        "content": "user id 是 u_123456"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請推薦我桌面很小、需要靠牆的配置，用單臂或壁掛都行。"
+      },
+      {
+        "role": "assistant",
+        "content": "若可鑽牆，壁掛最省空間；若不行，可選短臂或小行程單臂並預留 10–15cm 牆距。你偏好哪一種？"
+      },
+      {
+        "role": "user",
+        "content": "先看壁掛"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想用英文問問題，ok 嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "Sure—feel free to ask in English, and I’ll reply in English as well."
+      },
+      {
+        "role": "user",
+        "content": "What mounts fit a 32\" 100x100 monitor?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "單臂與氣壓臂差在哪？我在意調整順暢度。"
+      },
+      {
+        "role": "assistant",
+        "content": "氣壓臂調整更順、可懸停；機械單臂較基本但穩定。若常調整高度，建議選氣壓臂。要看範例款式嗎？"
+      },
+      {
+        "role": "user",
+        "content": "好，給我"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "如果我要把筆電也掛起來，會不會太重？"
+      },
+      {
+        "role": "assistant",
+        "content": "請確認臂架承重範圍與托盤重量；多數氣壓臂可支援一般筆電重量。你的筆電約幾公斤？"
+      },
+      {
+        "role": "user",
+        "content": "大概 1.6 公斤"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想看之前所有訂單的 order_id 清單。"
+      },
+      {
+        "role": "assistant",
+        "content": "請提供 user_id，我會列出你的 order_id 清單，你再指定要查的那一筆。"
+      },
+      {
+        "role": "user",
+        "content": "u_222222"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "桌板只有 15mm，夾具會穩嗎？需要加強嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "15mm 可用，多數夾具支援；建議加保護墊片並確認夾持力道。若不安心可改穿孔固定。要安裝建議嗎？"
+      },
+      {
+        "role": "user",
+        "content": "給建議"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想讓螢幕垂直擺放做程式開發，哪款支援旋轉？"
+      },
+      {
+        "role": "assistant",
+        "content": "多數臂架支援 ±90° 旋轉；以 27–32 吋常見。要我列出支持旋轉的推薦清單嗎？"
+      },
+      {
+        "role": "user",
+        "content": "列出來"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想直接看重載臂，請挑一支最穩的給我。"
+      },
+      {
+        "role": "assistant",
+        "content": "建議「超寬螢幕重載臂（至 49 吋）」；承重與相容性較佳。要商品頁與安裝注意事項嗎？"
+      },
+      {
+        "role": "user",
+        "content": "兩個都要"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "可以把客服轉真人嗎？我想談企業採購方案。"
+      },
+      {
+        "role": "assistant",
+        "content": "沒問題，請提供你的 Email，我會把需求轉交專人聯繫你。"
+      },
+      {
+        "role": "user",
+        "content": "corp@school.edu.tw"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "商品頁寫免運，結帳還是顯示運費，是不是離島不適用？"
+      },
+      {
+        "role": "assistant",
+        "content": "免運門檻適用本島；離島/外島運費另計，以結帳頁顯示為準。需要我幫你確認地址類別嗎？"
+      },
+      {
+        "role": "user",
+        "content": "不用了，我知道了"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "你可以幫我查「JTCG-202507-30021」的訂單細節嗎？"
+      },
+      {
+        "role": "assistant",
+        "content": "可以，請先提供 user_id，我會列出你的 order_id 清單讓你指認，之後再提供該筆詳情。"
+      },
+      {
+        "role": "user",
+        "content": "我的 user_id 是 u_333333"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "如果要申請 RMA，你們會來收件嗎？還是我自己寄？"
+      },
+      {
+        "role": "assistant",
+        "content": "流程由客服提供指示，依情況安排收件或自行寄回。要我提供 RMA 申請入口嗎？"
+      },
+      {
+        "role": "user",
+        "content": "好，提供"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請問我能不能看 3 個最推薦的單臂款式就好？"
+      },
+      {
+        "role": "assistant",
+        "content": "可以，我會根據你的尺寸/重量/用途列 3 款。先告訴我螢幕尺寸與重量？"
+      },
+      {
+        "role": "user",
+        "content": "32 吋，5 公斤左右"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "我想知道你們是否有客服電話？想直接講。"
+      },
+      {
+        "role": "assistant",
+        "content": "你可以先提供 Email，我把你的需求轉給真人客服，會再安排合適的聯繫方式與時間。"
+      },
+      {
+        "role": "user",
+        "content": "mail@me.io"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "請問桌面常移動位置，臂架需要鎖得很緊嗎？會不會刮桌？"
+      },
+      {
+        "role": "assistant",
+        "content": "建議使用保護墊片並適度鎖緊；搬動前先鬆開再重新固定可避免刮傷。要保護建議清單嗎？"
+      },
+      {
+        "role": "user",
+        "content": "好，給清單"
+      }
+    ]
+  }
+]

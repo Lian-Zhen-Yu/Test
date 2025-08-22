@@ -1,0 +1,43 @@
+id,title,content,urls/0/label,urls/0/href,images/0,tags/0,tags/1,tags/2
+FAQ-RET-001,退換貨政策,JTCG Shop 提供 7 天鑑賞期（含例假日）。商品需保持全新、完整包裝與配件。若為非瑕疵退換貨，可能需自行負擔來回運費。,退換貨條款,https://example.com/jtcg/policies/returns,https://example.com/jtcg/img/policy_returns.png,退換貨,鑑賞期,政策
+FAQ-WAR-002,保固與維修,臂架與支架類商品享有 1 年有限保固。非人為損壞可申請檢測與維修；需提供訂單編號或發票資訊。,保固說明,https://example.com/jtcg/policies/warranty,https://example.com/jtcg/img/policy_warranty.png,保固,維修,售後服務
+FAQ-INV-003,發票與開立方式,本店提供電子發票，出貨完成後將以 Email 寄送或於會員中心可下載查詢。若需三聯式發票，請於下單時備註統編與抬頭。,發票常見問題,https://example.com/jtcg/policies/invoice,https://example.com/jtcg/img/faq_invoice.png,發票,電子發票,統編
+FAQ-SHP-004,出貨時程與運費,"現貨商品於 1–2 個工作天出貨；預購商品依頁面標示為準。標準運送滿 NT$1,500 免運；離島或外島運費另計。",運送說明,https://example.com/jtcg/policies/shipping,https://example.com/jtcg/img/policy_shipping.png,出貨,運費,免運門檻
+FAQ-VESA-005,VESA 相容與安裝,JTCG Shop 臂架支援常見 VESA 75×75、100×100。部分超寬螢幕需使用強化背板或專用轉接板。,安裝指南,https://example.com/jtcg/guides/vesa-mounting,https://example.com/jtcg/img/guide_vesa.png,VESA,安裝,相容性
+FAQ-DESK-006,桌板厚度與夾具相容,夾具建議安裝於 10–85mm 厚之桌板；如為玻璃或軟木材質，建議使用墊片或改用穿孔固定方式。,桌板相容建議,https://example.com/jtcg/guides/desk-compat,https://example.com/jtcg/img/guide_desk.png,桌板,夾具,穿孔安裝
+FAQ-CS-007,客服聯絡與服務時段,線上客服服務時段為週一至週五 09:30–18:00（國定假日除外）。若遇尖峰，請留下 Email，我們將盡速回覆。,聯絡我們,https://example.com/jtcg/support/contact,https://example.com/jtcg/img/support.png,客服,聯絡,服務時段
+FAQ-PROMO-008,優惠券與活動使用規則,每筆訂單限使用一張優惠券；不得與部分專案或企業報價合併使用；活動期間與適用品項以頁面公告為準。,活動總覽,https://example.com/jtcg/promotions,https://example.com/jtcg/img/promo.png,優惠券,活動,規則
+FAQ-PAY-009,付款方式與分期,JTCG Shop 支援信用卡（VISA/Master/JCB）、Apple Pay、Google Pay、LINE Pay。部分銀行提供 3/6/12 期分期，實際手續費與門檻以結帳頁提示為準。,付款說明,https://example.com/jtcg/policies/payment,https://example.com/jtcg/img/faq_payment.png,付款,分期,金流
+FAQ-INT-010,海外與離島配送,目前主要配送台灣本島；離島/外島運費與時程將於結帳頁顯示。海外配送可先透過客服評估可行方案與預估費用。,配送範圍,https://example.com/jtcg/policies/international,https://example.com/jtcg/img/faq_international.png,海外,離島,運送
+FAQ-NTF-011,缺貨通知與到貨提醒,商品頁可點選「到貨通知我」，系統會在補貨後以 Email 通知。提醒僅代表可下單，實際購買以結帳成功為準。,通知設定,https://example.com/jtcg/account/notifications,https://example.com/jtcg/img/faq_notify.png,缺貨,到貨通知,提醒
+FAQ-ASM-012,是否提供到府安裝服務,特定地區提供到府安裝（由合作廠商執行），費用依地區與安裝難度另計。下單前可先與客服確認是否支援。,安裝服務,https://example.com/jtcg/services/installation,https://example.com/jtcg/img/faq_installation.png,安裝,到府,服務
+FAQ-MNT-013,夾具 vs 穿孔固定差異,夾具安裝免鑽孔、便利度高；穿孔固定穩定性更佳、適合厚桌板或特殊材質。若為玻璃/軟木桌板，建議使用墊片或改穿孔。,安裝方式比較,https://example.com/jtcg/guides/clamp-vs-grommet,https://example.com/jtcg/img/guide_mount.png,夾具,穿孔,安裝
+FAQ-WGT-014,超寬螢幕重量與相容性,選購臂架時請以「螢幕淨重（不含原廠腳座）」為準，並確認 VESA 規格與臂架承重範圍。超寬/曲面機種建議搭配強化背板。,重量與相容性,https://example.com/jtcg/guides/weight-compat,https://example.com/jtcg/img/guide_weight.png,承重,超寬螢幕,VESA
+FAQ-GAS-015,氣壓臂張力如何調整,安裝後以附贈六角扳手順時針/逆時針微調張力，使螢幕能穩定停在常用高度。請逐步調整並避免一次轉動過多圈數。,張力調整指南,https://example.com/jtcg/guides/gas-spring-tuning,https://example.com/jtcg/img/guide_tension.png,氣壓臂,張力,調整
+FAQ-NOV-016,無 VESA 螢幕如何安裝,可搭配 VESA 轉接板或筆電托盤類配件，確認托盤/轉接板的負重與尺寸範圍後再安裝。,VESA 轉接方案,https://example.com/jtcg/guides/vesa-adapter,https://example.com/jtcg/img/guide_adapter.png,無VESA,轉接板,相容性
+FAQ-SAF-017,桌面保護與兒童安全,夾具建議加裝保護墊片，避免桌面刮傷。請避免孩童攀爬或懸掛螢幕臂，並定期檢查螺絲鎖固狀況。,安全建議,https://example.com/jtcg/guides/safety,https://example.com/jtcg/img/guide_safety.png,安全,桌面保護,兒童
+FAQ-WALL-018,壁掛安裝需注意的牆體條件,建議安裝於磚牆或實心牆面；若為石膏板/輕隔間需使用對應膨脹螺絲或請專業安裝。請先評估牆面承重。,壁掛指南,https://example.com/jtcg/guides/wall-mount,https://example.com/jtcg/img/guide_wall.png,壁掛,牆體,承重
+FAQ-RMA-019,保固申請與維修流程,請備妥訂單編號與故障影片/照片，於線上表單提交 RMA。客服會於工作日內回覆檢測與處理方式。,線上維修申請,https://example.com/jtcg/support/rma,https://example.com/jtcg/img/support_rma.png,保固,維修,RMA
+FAQ-INV-020,發票重發與抬頭變更,電子發票可於會員中心補發下載；抬頭/統編需於下單時填寫，若遺漏請於出貨前聯繫客服協助。,發票服務,https://example.com/jtcg/policies/invoice-service,https://example.com/jtcg/img/faq_invoice_edit.png,發票,重發,抬頭
+FAQ-B2B-021,企業/學校/大量採購,可提供專案報價、到府安裝與教育/企業折扣評估。請提供需求數量、安裝地點與時程以利評估。,大量採購洽詢,https://example.com/jtcg/b2b/quote,https://example.com/jtcg/img/faq_b2b.png,企業,大量採購,報價
+FAQ-RET-022,退貨實際流程與退款時程,線上提出申請→包裝回收→檢查完成後辦理退款。退款時程約 7–14 個工作天，依支付方式與銀行作業為準。,退貨流程,https://example.com/jtcg/policies/return-flow,https://example.com/jtcg/img/faq_return_flow.png,退貨,退款,流程
+FAQ-TRK-023,物流追蹤方式,出貨後可於「我的訂單」頁點擊追蹤碼查看最新配送狀態。若長時間無更新，請聯繫客服協助查詢。,我的訂單,https://example.com/jtcg/account/orders,https://example.com/jtcg/img/faq_tracking.png,物流,追蹤,配送
+FAQ-MEM-024,會員點數與使用期限,會員點數可於結帳抵用，不得折換現金。有效期限與可用規則以會員中心公告為準。,會員制度,https://example.com/jtcg/account/rewards,https://example.com/jtcg/img/faq_rewards.png,會員,點數,折抵
+FAQ-CAR-025,臂架保養與清潔建議,建議以微濕布擦拭，避免使用含溶劑之清潔劑。定期檢查關節與螺絲是否鬆動並適度調整。,保養指南,https://example.com/jtcg/guides/care,https://example.com/jtcg/img/guide_care.png,保養,清潔,維護
+FAQ-SPACE-026,桌深與牆距建議,臂展會影響可調整範圍；一般建議桌深至少 60cm，桌面後方保留 10–15cm 以利走線與臂架活動。,桌面規劃,https://example.com/jtcg/guides/desk-space,https://example.com/jtcg/img/guide_space.png,桌深,臂展,空間
+FAQ-CBL-027,走線管理與配線建議,建議沿臂架後側與走線槽固定，預留轉動餘量避免拉扯。轉接器與變壓器避免懸空以降低接口受力。,走線指南,https://example.com/jtcg/guides/cable-management,https://example.com/jtcg/img/guide_cable.png,走線,配線,收納
+FAQ-GFT-028,贈品與遺漏補寄,贈品以活動頁標示為準；若到貨未含贈品，請於 7 日內附上開箱照片與訂單資訊，客服將協助補寄。,贈品規則,https://example.com/jtcg/promotions/gifts,https://example.com/jtcg/img/faq_gift.png,贈品,補寄,活動
+FAQ-VSC-029,VESA 螺絲規格與長度,多數螢幕背板為 M4 螺牙（常見長度 10–14mm）；部分大型或電競機型可能為 M6/M8。實際規格以螢幕原廠手冊為準，安裝時避免螺絲過長頂壓機板。,VESA 螺絲指引,https://example.com/jtcg/guides/vesa-screws,https://example.com/jtcg/img/guide_screws.png,VESA,螺絲,規格
+FAQ-SIT-030,是否可與電動升降桌搭配,可搭配，但請留意臂展與走線鬆弛度，避免升降時拉扯線材。建議預留 10–15cm 線材餘量，電源變壓器避免懸空。,升降桌搭配建議,https://example.com/jtcg/guides/sit-stand,https://example.com/jtcg/img/guide_sitstand.png,升降桌,走線,相容性
+FAQ-EDGE-031,桌後擋板/外翻邊緣能否夾具安裝,若桌面後緣有擋板或外翻邊，請確認夾具可用夾持深度與高度。若干涉建議改用穿孔固定或加裝延伸固定片。,夾具相容檢查,https://example.com/jtcg/guides/edge-compat,https://example.com/jtcg/img/guide_edge.png,夾具,桌板,相容性
+FAQ-MIX-032,多螢幕不同尺寸是否可混搭,可混搭，但建議兩側重量相近以利平衡。使用雙臂時，請分別調整各臂張力，使兩台螢幕都能穩定停駐。,雙螢幕配置建議,https://example.com/jtcg/guides/dual-setup,https://example.com/jtcg/img/guide_dual.png,雙螢幕,張力,平衡
+FAQ-KIT-033,包裝內容物與安裝所需工具,標配包含臂架本體、夾具/穿孔配件、六角扳手、VESA 螺絲組（型號依商品而異）。穿孔安裝可能需要電鑽與量尺（自備）。,開箱與安裝準備,https://example.com/jtcg/guides/unbox-setup,https://example.com/jtcg/img/guide_unbox.png,內容物,工具,安裝
+FAQ-DOA-034,到貨外箱受損或零件缺失怎麼辦,請立即拍攝外箱與內容物狀況，連同訂單編號於 7 日內回報客服。我們會協助更換缺件或安排售後處理。,到貨異常申請,https://example.com/jtcg/support/arrival-issue,https://example.com/jtcg/img/support_doa.png,到貨,缺件,售後
+FAQ-CHG-035,下單後是否可修改地址或變更品項,未出貨前可由客服協助修改。若已進入出貨流程，可能需取消訂單重新下單，實際以系統狀態為準。,訂單變更流程,https://example.com/jtcg/policies/order-change,https://example.com/jtcg/img/faq_order_change.png,訂單,修改,地址
+FAQ-CAN-036,取消訂單與退款,未出貨可申請取消；已出貨需走退貨流程。退款作業約 7–14 個工作天，依支付方式與銀行作業為準。,取消與退款,https://example.com/jtcg/policies/cancel-refund,https://example.com/jtcg/img/faq_cancel.png,取消,退款,申請
+FAQ-PRE-037,預購商品與分批出貨,預購品將依頁面標示時程到貨；若同單含現貨與預購，可能採分批出貨。運費計算與是否合併以結帳頁為準。,預購與出貨,https://example.com/jtcg/policies/preorder-shipping,https://example.com/jtcg/img/faq_preorder.png,預購,分批出貨,運費
+FAQ-REG-038,保固登錄與是否可轉移,部分商品提供線上保固登錄；保固通常限原始購買者，不隨轉售轉移。實際以商品頁或憑證說明為準。,保固登錄,https://example.com/jtcg/support/warranty-register,https://example.com/jtcg/img/faq_register.png,保固,登錄,轉移
+FAQ-NSE-039,臂架異音與保養,輕微金屬摩擦聲屬正常磨合；若異音明顯，建議檢查螺絲鎖付與走線是否干涉，必要時於關節轉點施以少量潤滑（請勿沾染面板）。,保養建議,https://example.com/jtcg/guides/maintenance,https://example.com/jtcg/img/guide_noise.png,異音,保養,潤滑
+FAQ-PAR-040,配件與備用零件是否可單獨購買,可於配件館選購常用耗材與備品（螺絲組、轉接板、走線配件等）。如找不到對應零件，請提供 SKU 與需求給客服協助。,配件館,https://example.com/jtcg/accessories,https://example.com/jtcg/img/faq_parts.png,配件,備品,螺絲
+FAQ-PRC-041,價格保護與調降補差,若商品於短期內調降價格，是否提供補差以活動頁公告為準；不同活動檔期可能不適用價格保護。,價格政策,https://example.com/jtcg/policies/price-protect,https://example.com/jtcg/img/faq_price.png,價格保護,補差,活動
+FAQ-PRV-042,個資與 Email 使用說明,您提供的 Email 僅用於本次服務聯繫與訂單通知，不做行銷用途。更多細節請參考隱私權政策。,隱私權政策,https://example.com/jtcg/policies/privacy,https://example.com/jtcg/img/faq_privacy.png,隱私,Email,資料使用
